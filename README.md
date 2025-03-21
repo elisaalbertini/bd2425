@@ -1,5 +1,5 @@
 # Big Data project
-
+Elisa Albertini and Eleonora Bertoni
 ## Project structure
 - dataset folder: contains dataset samples for notebooks
 - src\main\python\notebook folder: contains notebook of the two jobs and of their optimized versions
