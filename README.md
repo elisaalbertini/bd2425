@@ -1,5 +1,9 @@
 # Big Data project
 Elisa Albertini and Eleonora Bertoni
+
+## Chosen dataset
+[Link to dataset](https://www.kaggle.com/datasets/sayedmahmoud/amazanreviewscor5)
+
 ## Project structure
 - dataset folder: contains dataset samples for notebooks
 - src\main\python\notebook folder: contains notebook of the two jobs and of their optimized versions
